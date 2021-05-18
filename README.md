@@ -14,3 +14,4 @@ pandas 기초
 np1.nbytes   ## 전체 바이트
 np1.itemsize  ##하나하나의 바이트 
 np2.T  ## 행과 열의 구조를 바꿈
+
